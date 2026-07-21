@@ -72,7 +72,7 @@ export function AboutSection() {
                   "With over 14 years of coaching experience and 11 years dedicated to the women's game, we pride ourselves on helping players navigate their professional development phases and successfully transition into professional football."
                 }
               </p>
-              <div className="space-y-4">
+              <div className="space-y-4 mb-6">
                 <div className="flex items-center">
                   <div className="w-2 h-2 bg-primary rounded-full mr-3"></div>
                   <span className="text-foreground">Holistic player development approach</span>
@@ -86,6 +86,12 @@ export function AboutSection() {
                   <span className="text-foreground">Professional transition support</span>
                 </div>
               </div>
+              <p className="text-muted-foreground leading-relaxed">
+                Founder Luke Thomas-Arayo blends coaching and sports science for elite player
+                development. With a UEFA A License, FA Youth Award, LMA Diploma, BSc Sport Science,
+                and Level 4 S&C, he unites tactical leadership with advanced physical load
+                management.
+              </p>
             </div>
 
             <div className="relative">
